@@ -111,7 +111,7 @@ Here are some ideas to get you started:
 
 </p>
   
-### 👉Graphic Designing
+### 👉Graphics Design / Prototyping
 <p align="left">
     &emsp;
   <a href="#">
