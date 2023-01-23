@@ -74,8 +74,8 @@ Here are some ideas to get you started:
     <a href="https://www.mysql.com/"><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&for-the-badge&logo=postgresql&logoColor=white"></a>
   &emsp;
     <a href="https://www.mysql.com/"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-for-the-badge&logo=mongodb&logoColor=white"></a>
-  <!-- &emsp;
-    <a href="https://www.sqlite.org/"><img alt="SQLite" src ="https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white"/></a> -->
+    &emsp;
+    <a href="https://www.sqlite.org/"><img alt="SQLite" src ="https://img.shields.io/badge/sqlite-%2307405e.svg?logo=sqlite&logoColor=white"/></a>
   &emsp;
     <a href="https://www.github.com"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=flat&llogo=github&logoColor=white"></a>
   &emsp;
@@ -91,11 +91,11 @@ Here are some ideas to get you started:
     &emsp;
     <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232A?style=flat&for-the-badge&logo=react&logoColor=61DAFB"></a>
     &emsp;
-    <a href="#"><img alt="ExpressJS" src="https://img.shields.io/badge/Express.js-404D59?style=flat&for-the-badge"></a>
+    <a href="#"><img alt="ExpressJS" src="https://img.shields.io/badge/Express.js-404D59?for-the-badge"></a>
     &emsp;
-    <a href="#"><img alt="Django" src="https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20"></a>
+    <a href="#"><img alt="Django" src="https://img.shields.io/badge/-Django-05122A?logo=django&logoColor=white"></a>
     &emsp;
-    <a href="#"><img alt="Flask" src="https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask"></a>	
+    <a href="#"><img alt="Flask" src="https://img.shields.io/badge/-Flask-05122A?logo=flask"></a>	
 </p>
 
  ### 👉Testing
