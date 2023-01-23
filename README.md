@@ -44,6 +44,7 @@ Here are some ideas to get you started:
    <a href="https://www.python.org" target="_blank">
     <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white">
   </a>
+  <a href="" target="_blank"><img src="![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;"</img></a>		
 </p>
 
 ### 👉 Frontend Development
