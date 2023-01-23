@@ -69,7 +69,7 @@ Here are some ideas to get you started:
 ### 👉 Databases & Cloud Hosting
 <p align="left">
   &emsp;
-    <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=flat&for-the-badge&logo=mysql&logoColor=white"></a>
+    <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?for-the-badge&logo=mysql&logoColor=white"></a>
   &emsp;
     <a href="https://www.mysql.com/"><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&for-the-badge&logo=postgresql&logoColor=white"></a>
   &emsp;
