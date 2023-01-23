@@ -95,9 +95,11 @@ Here are some ideas to get you started:
     &emsp;
     <a href="#"><img alt="Django" src="https://img.shields.io/badge/-Django-05122A?logo=django&logoColor=white"></a>
     &emsp;
-    <a href="#"><img alt="Flask" src="https://img.shields.io/badge/-Flask-05122A?logo=flask"></a>
+    <a href="#"><img alt="Flask" src="https://img.shields.io/badge/-Flask-05122A?logo=flask&logoColor=white"></a>
     &emsp;
-    <a href="#"><img alt="jQuery" src="https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=white"></a>	
+    <a href="#"><img alt="jQuery" src="https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=white"></a>
+    &emsp;
+    <a href="#"><img alt="NodeJS" src="https://img.shields.io/badge/Node.js%20-%2343853D.svg?logo=node.js&logoColor=white""></a>	
 </p>
 
  ### 👉Testing
