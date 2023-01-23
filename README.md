@@ -92,7 +92,10 @@ Here are some ideas to get you started:
     <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232A?style=flat&for-the-badge&logo=react&logoColor=61DAFB"></a>
     &emsp;
     <a href="#"><img alt="ExpressJS" src="https://img.shields.io/badge/Express.js-404D59?style=flat&for-the-badge"></a>
-
+    &emsp;
+    <a href="#"><img alt="Django" src="https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20"></a>
+    &emsp;
+    <a href="#"><img alt="Flask" src="https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask"></a>	
 </p>
 
  ### 👉Testing
