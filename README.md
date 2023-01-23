@@ -89,9 +89,9 @@ Here are some ideas to get you started:
  ### 👉Libraries & Frameworks
 <p align="left">
     &emsp;
-    <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232A?style=flat&for-the-badge&logo=react&logoColor=61DAFB"></a>
+    <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232A?for-the-badge&logo=react&logoColor=61DAFB"></a>
     &emsp;
-    <a href="#"><img alt="ExpressJS" src="https://img.shields.io/badge/Express.js-404D59?for-the-badge"></a>
+    <a href="#"><img alt="ExpressJS" src="https://img.shields.io/badge/Express.js-404D59?for-the-badge&logo=expressJs&logoColor=white"></a>
     &emsp;
     <a href="#"><img alt="Django" src="https://img.shields.io/badge/-Django-05122A?logo=django&logoColor=white"></a>
     &emsp;
