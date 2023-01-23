@@ -176,7 +176,8 @@ Here are some ideas to get you started:
 	<a href="mailto:shaeebali@gmail.com"><img src="https://img.icons8.com/3d-fluency/40/gmail.png" alt="Gmail"/></a>
 	<a href="https://github.com/shaeebali"><img src="https://img.icons8.com/3d-fluency/40/github.png" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/shaeebali/"><img src="https://img.icons8.com/3d-fluency/40/linkedin.png" alt="LinkedIn"/></a>
-  <a href="https://www.codecademy.com/profiles/shaeeb0793657240"><img src="https://img.icons8.com/3d-fluency/40/codecademy.png" alt="Codecademy"/></a>                                    
+  <a href="https://www.codecademy.com/profiles/shaeeb0793657240"><img src="https://user-images.githubusercontent.com/99033846/214129345-22b7b51b-8567-4581-9e0e-a7eeb4e894b9.png)
+" alt="Codecademy"/></a>                                    
                                                                                                                               
 </p>
 
