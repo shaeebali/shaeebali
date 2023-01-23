@@ -150,6 +150,7 @@ Here are some ideas to get you started:
 ## 📊 Github Stats 
 
   <br/>
+    <p align="center">
     <a href="https://github.com/shaeebali">
       <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shaeebali&theme=noctis_minimus&show_icons=true" />
       <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaeebali&theme=noctis_minimus&layout=compact" />
@@ -157,7 +158,8 @@ Here are some ideas to get you started:
 
 
   <!-- <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-  </p> -->
+   -->
+   </p>	    
 
 
 <details>
