@@ -147,7 +147,7 @@ Here are some ideas to get you started:
   &emsp;
     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
   &emsp;
-  <a href="#"><img alt="NPM" src="https://img.shields.io/badge/-npm-FE7A16?logo=npm&logoColor=white"></a>	    
+  <a href="#"><img alt="NPM" src="https://img.shields.io/badge/-npm-23E34F26?logo=npm&logoColor=white"></a>	    
 </p>
 
 <br/>
