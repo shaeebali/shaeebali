@@ -64,8 +64,9 @@ Here are some ideas to get you started:
   <a href="https://getbootstrap.com" target="_blank"> 
     <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?logo=bootstrap&logoColor=white"/>
   </a>
+  &emsp;	
   <a href="https://tailwindcss.com/" target="_blank"> 
-    <img alt="Tailwind" src="https://img.shields.io/badge/Tailwind-%23563D7C.svg?logo=tailwind&logoColor=white"/>
+    <img alt="Tailwind" src="https://img.shields.io/badge/Tailwind-%23563D7C.svg?logo=tailwindcss&logoColor=white"/>
   </a>	
 </p>
 
