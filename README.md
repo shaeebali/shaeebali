@@ -66,7 +66,7 @@ Here are some ideas to get you started:
   </a>
   &emsp;	
   <a href="https://tailwindcss.com/" target="_blank"> 
-    <img alt="Tailwind" src="https://img.shields.io/badge/Tailwind-%23563D7C.svg?logo=tailwindcss&logoColor=white"/>
+    <img alt="Tailwind" src="https://img.shields.io/badge/Tailwind&CSS-%23563D7C.svg?logo=tailwindcss&logoColor=white"/>
   </a>	
 </p>
 
