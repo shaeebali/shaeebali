@@ -191,12 +191,12 @@ Here are some ideas to get you started:
 
 <hr/>
 <p align="center">
-<img src="https://slackmojis.com/emojis/3958-storm_trooper/download"width="30">
-<img src="https://slackmojis.com/emojis/3958-storm_trooper/download"width="30">
-<img src="https://slackmojis.com/emojis/3958-storm_trooper/download"width="30">
-<img src="https://slackmojis.com/emojis/3958-storm_trooper/download"width="30">
-<img src="https://slackmojis.com/emojis/3958-storm_trooper/download"width="30">
-<img src="https://slackmojis.com/emojis/3958-storm_trooper/download"width="30">
+<img src="https://slackmojis.com/emojis/228-matrix/download"width="30">
+<img src="https://slackmojis.com/emojis/228-matrix/download"width="30">
+<img src="https://slackmojis.com/emojis/228-matrix/download"width="30">
+<img src="https://slackmojis.com/emojis/228-matrix/download"width="30">
+<img src="https://slackmojis.com/emojis/228-matrix/download"width="30">
+<img src="https://slackmojis.com/emojis/228-matrix/download"width="30">
 </p>
 
 * Credit: [shaeebali](https://github.com/shaeebali)
