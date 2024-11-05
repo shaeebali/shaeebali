@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi , I'm Shaeeb <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Fullstack+Software+Engineer" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Full-Stack+Software+Engineer" alt="Typing SVG" /></a>
 </p>
 
 <hr/>
@@ -166,7 +166,7 @@ Here are some ideas to get you started:
    -->
    </p>	    
 
-
+<!--
 <details>
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
@@ -174,10 +174,11 @@ Here are some ideas to get you started:
   <br/>
 
 </details>
+-->
 
 <br/>
 
-## <img src="https://slackmojis.com/emojis/1679-bb8flame/download" alt="storm trooper" width="30"> Let's Connect
+## <img src="https://slackmojis.com/emojis/228-matrix/download" alt="matrix" width="30"> Let's Connect
 <p align="center">
   <a href="https://shaeebali.netlify.app"><img src="https://img.icons8.com/fluency/40/internet.png" alt="Website"/></a>
 	<a href="mailto:shaeebali@gmail.com"><img src="https://img.icons8.com/3d-fluency/40/gmail.png" alt="Gmail"/></a>
