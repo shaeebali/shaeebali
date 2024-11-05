@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi , I'm Shaeeb <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Junior+Fullstack+Software+Engineer" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Fullstack+Software+Engineer" alt="Typing SVG" /></a>
 </p>
 
 <hr/>
-<h4 align="center">I am a Tech Trainee at codecademy and previously have studied at Harvard (CS50 - Computer Science). I like to code and solve problems. I am an enthusiastic person who loves to take up new challenges and learn new skills. I'm open to collaborating on projects.</h4>
+<h4 align="center">I am a Full Stack Software Engineer. I have studied at Harvard (CS50 - Computer Science) & Codecademy. I like to code and solve problems. I am an enthusiastic individual who loves to take up new challenges and learn new skills. I'm open to collaborating on projects.</h4>
 <br>
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=shaeebali&label=Profile%20views&color=brightgreen&style=plastic" alt="candida18" />
