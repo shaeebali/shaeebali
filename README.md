@@ -178,7 +178,7 @@ Here are some ideas to get you started:
 
 <br/>
 
-## <img src="https://slackmojis.com/emojis/228-matrix/download" alt="matrix" width="30"> Let's Connect
+## <img src="https://slackmojis.com/emojis/90932-unplug/download" alt="plug" width="30"> Let's Connect
 <p align="center">
   <a href="https://shaeebali.netlify.app"><img src="https://img.icons8.com/fluency/40/internet.png" alt="Website"/></a>
 	<a href="mailto:shaeebali@gmail.com"><img src="https://img.icons8.com/3d-fluency/40/gmail.png" alt="Gmail"/></a>
